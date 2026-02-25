@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Isaac</h1>
+
 <h3 align="center">💻 Informatics Student | Future Software Engineer | Problem Solver</h3>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Informatics student passionate about software development  
-🧠 Strong interest in algorithms & problem solving  
-🔥 Focused on writing clean, efficient, and scalable code  
-🎯 Goal: Master software engineering and build impactful projects  
+Informatics student passionate about software development  
+Strong interest in algorithms & problem solving    
+Master software engineering and build impactful projects  
 
 ---
 
@@ -33,7 +32,7 @@
 
 ---
 
-## 🧠 Currently Working On
+ Working On
 
 - Improving data structures & algorithms
 - Building personal development projects
