@@ -26,5 +26,3 @@ Master software engineering and build impactful projects
 ## 📫 Contact Me
 
 📧 ishakabed01@gmail.com  
-
-**ISAACDEV3/ISAACDEV3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
