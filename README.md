@@ -23,22 +23,8 @@ Master software engineering and build impactful projects
 
 ---
 
- Working On
-
-- Improving data structures & algorithms
-- Building personal development projects
-- Strengthening backend fundamentals
-
----
-
 ## 📫 Contact Me
 
 📧 ishakabed01@gmail.com  
 
----
-
-<p align="center">
-  ⚡ "Discipline beats motivation."
-</p>
-<!--
 **ISAACDEV3/ISAACDEV3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
