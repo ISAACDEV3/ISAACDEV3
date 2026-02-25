@@ -1,0 +1,19 @@
+name: Auto assign new issues
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  assign:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Assign issue to creator
+        uses: pozil/auto-assign-issue@v1
+        with:
+          assignees: ${{ github.actor }}
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
